@@ -69,7 +69,6 @@ This project is a simple **Linear Regression** model built to predict sales base
      - Mean Squared Error (MSE)
 
 8. **Residual Analysis**  
-   - Plot residuals distribution.  
    - Scatter plot of actual vs predicted sales.
 
 ---
